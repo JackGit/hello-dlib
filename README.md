@@ -49,4 +49,5 @@ config .pro file and write demo code as in this repository, then you are ready t
 ### references
 
 [Dlib (C++) install on PC with MingW and QT environment(part 1)](https://www.youtube.com/watch?v=qC2U0-SAasU)
+
 [Dlib (C++) install on PC with MingW and QT environment(part 2)](https://www.youtube.com/watch?v=wg5g5bQMNbA)
